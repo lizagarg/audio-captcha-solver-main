@@ -38,8 +38,9 @@ This project focuses on recognizing and decoding audio captchas using a deep lea
 ### Training the model
 
 ```bash
+python gen.py
 
 python train.py
 
 ### for check the model prediction
-python prdict.py
+python predict.py
